@@ -7,4 +7,4 @@
 
 https://public.tableau.com/views/Plot1_16084806595580/1?:language=zh-Hans&:display_count=y&publish=yes&:origin=viz_share_link
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Plot1_16084806595580/1?:language=zh-Hans&:embed=yes&:display_count=y&:showVizHome=no" width = '640' height = '480' scrolling='No'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Plot1_16084806595580/1?:language=zh-Hans&:embed=yes&:display_count=y&:origin=viz_share_link&:showVizHome=no" width = '640' height = '480' scrolling='No'></iframe>
