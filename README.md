@@ -1,4 +1,4 @@
-# PPOL563_Final_Project
+# PPOL563 Final Project
 
 ### Xin Wei
          
@@ -6,4 +6,4 @@
 
 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src ="file:///C:/Users/79841/plotly_map.html"></iframe>
+<iframe seamless frameborder="0" src="http://htmlpreview.github.io/?https://github.com/Weixin3416/PPOL563_Final_Project/plotly_map.html" width='650' height='450' scrolling='yes' ></></iframe>
