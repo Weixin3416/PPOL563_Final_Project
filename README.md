@@ -10,4 +10,4 @@
 
 https://public.tableau.com/views/FinalProject_16084778965660/1?:language=zh-Hans&:display_count=y&:origin=viz_share_link
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/FinalProject_16084778965660/1?:language=zh-Hans&:display_count=y&:showVizHome=no" width = '680' height = '460'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/FinalProject_16084778965660/1?:language=zh-Hans&:display_count=y&:showVizHome=no" width = '680' height = '460' scrolling='No'></iframe>
