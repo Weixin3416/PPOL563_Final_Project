@@ -6,4 +6,4 @@
 
 
 
-<iframe seamless frameborder="0" src="http://htmlpreview.github.io/?https://github.com/Weixin3416/PPOL563_Final_Project/plotly_map.html" width='650' height='450' scrolling='yes' ></></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Class_Tableau_Workbook_16084402257610/Sheet2?:language=zh-Hans&:display_count=y&publish=yes&:origin=viz_share_link" width='650' height='450'></></iframe>
