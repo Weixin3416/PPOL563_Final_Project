@@ -2,8 +2,39 @@
 
 ### Xin Wei
 
+1. https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard1?:language=zh-Hans&:display_count=y&:origin=viz_share_link
+2. https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard2?:language=zh-Hans&:display_count=y&:origin=viz_share_link
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Plot1_16084806595580/Dashboard2?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' scrolling='No'></iframe>
 
-https://public.tableau.com/views/Plot1_16084806595580/1?:language=zh-Hans&:display_count=y&publish=yes&:origin=viz_share_link
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard1?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '720' height = '540' scrolling='No'></iframe>
 
+
+
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard2?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '720' height = '540' scrolling='No'></iframe>
+
+
+
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard3?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '500' scrolling='No'></iframe>
+  
+  
+  
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard4?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1100' height = '600' scrolling='No'></iframe>
+
+
+
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard6?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '580' scrolling='No'></iframe>
+  
+  
+  
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard5?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '570' scrolling='No'></iframe>
+  
+  
+  
+<p align="center"><iframe seamless frameborder="0" src="https://public.tableau.com/views/PPOL563_Project_final_version/Dashboard7?:language=en&:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '500' scrolling='No'></iframe>  
+  
+  
+  
+  
+  
+  
+  
